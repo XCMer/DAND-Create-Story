@@ -1,10 +1,11 @@
 # DAND - Create a Tableau Story
 
-Workbook links:
-1st attempt: https://public.tableau.com/profile/raahul4197#!/vizhome/TitanicWorkbook1/TitanicSurvival
-Final attempt: https://public.tableau.com/profile/raahul4197#!/vizhome/TitanicWorkbook2/TitanicSurvivalv2
+## Workbook links
+1. 1st attempt: https://public.tableau.com/profile/raahul4197#!/vizhome/TitanicWorkbook1/TitanicSurvival
 
-Data:
+1. Final attempt: https://public.tableau.com/profile/raahul4197#!/vizhome/TitanicWorkbook2/TitanicSurvivalv2
+
+## Data
 I used `titanic-data.xlsx`, which is derived from `titanic-data.csv`, because Tableau was having trouble importing the csv file. But they're equivalent.
 
 ## Summary
